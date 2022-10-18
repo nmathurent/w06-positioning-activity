@@ -139,13 +139,13 @@ grid-row: 4/6;
   background-color: red; 
 } 
 .green5 {
-  width: 400px; 
+  width: 600px; 
   height: 300px; 
   background-color: green;
   float: left;
 } 
 .yellow5 {
-  font-size: 1.5em;
+  font-size: 2em;
   height: 380px; 
   background-color: gold;
 } 
